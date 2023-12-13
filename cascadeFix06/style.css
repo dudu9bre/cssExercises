@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+    font-weight: bolder;
+    font-size: 2em;
+}
+.para.small-para {
+    font-size: 1em;
+}
+.button {
+    font-size: 1.5em;
+    background-color: white;
+}
+#confirm-button {
+    color: white;
+    background-color: green;
+    font-weight: bolder;
+}
+.text.child {
+    font-weight: bolder;
+}

@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.avatar.normal {
+    height: auto;
+    width: 300px;
+}
+.avatar.torto {
+    height: 400px;
+    width: 200px;
+}

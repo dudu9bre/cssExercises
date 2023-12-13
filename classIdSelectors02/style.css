@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: lightpink;
+}
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#n4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
